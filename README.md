@@ -1,4 +1,4 @@
-# Introduction to Excel: Part I and II
+# Introduction to Excel: Part I
 
 Jekyll repository for the "Introduction to Excel: Part I" workshop at the University of Idaho Library.
 
@@ -7,7 +7,7 @@ Jekyll repository for the "Introduction to Excel: Part I" workshop at the Univer
 Abstract:
 Do you want to learn the basics of Excel and a few time-saving tips? 
 
-Part I of this workshop series will get you started with Excel by offering simple ways to:
+Part I of this workshop will get you started with Excel by offering simple ways to:
 - organize spreadsheets
 - format data
 - insert basic functions
