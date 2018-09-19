@@ -17,7 +17,7 @@ Want to learn more? Visit the <a href="https://jylisadoney.github.io/intro-excel
 1. Download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
 <br>
-<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">**Questions about the workshop?** 
+<a href="https://vivo.nkn.uidaho.edu/vivo/display/n104190" target="_blank">Questions about the workshop?</a> 
 
 <br><br>
 > hosted by the <a href="https://www.lib.uidaho.edu/" target="_blank">University of Idaho Library</a> ({{ site.pub_year }})
