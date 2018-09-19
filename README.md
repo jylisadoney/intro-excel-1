@@ -12,4 +12,4 @@ Part I of this workshop will get you started with Excel by offering simple ways 
 - format data
 - insert basic functions
 
-Want to learn more? Visit the <li><a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a></li> page.
+Want to learn more? Visit the <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a> page.
