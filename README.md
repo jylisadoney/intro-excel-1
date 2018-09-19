@@ -1,6 +1,6 @@
 # Introduction to Excel: Part I and II
 
-Jekyll repository for the "Introduction to Excel: Part I and II" workshop series at the University of Idaho Library.
+Jekyll repository for the "Introduction to Excel: Part I" workshop at the University of Idaho Library.
 
 <link to repository>
 
@@ -12,8 +12,6 @@ Part I of this workshop series will get you started with Excel by offering simpl
 - format data
 - insert basic functions
 
-Part II of this workshop series will show you how to:
+Visit "Introduction to Excel: Part II" to learn how to:
 - create charts and graphs
 - insert advanced functions
-
-We will even learn a few tips and tricks in both workshops that will make you an Excel power-user.
