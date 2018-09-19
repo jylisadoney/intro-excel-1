@@ -3,7 +3,7 @@ title: Home
 ---
 # Introduction to Excel Part I: Tips, Tricks, and Strategies
 
-Part I of this workshop will get you started with Excel by offering simple ways to:
+Part I of this workshop series will get you started with Excel by offering simple ways to:
 - organize spreadsheets
 - format data
 - insert basic functions
