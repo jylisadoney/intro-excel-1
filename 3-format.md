@@ -113,7 +113,7 @@ You can also visit <a href="https://support.office.com/en-us/article/enter-and-f
 ### Sort data
 To learn more about `sorting data`, open Excel and navigate to the `Data` tab and the `Sort & Filter` section.
 
-You can also visit <a href=" https://support.office.com/en-us/article/import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Sort_and_filter" target="_blank">Microsoft's Import and Analyze Data website</a>.
+You can also visit <a href="https://support.office.com/en-us/article/import-and-analyze-data-ccd3c4a6-272f-4c97-afbb-d3f27407fcde?ui=en-US&rs=en-US&ad=US#ID0EAABAAA=Sort_and_filter" target="_blank">Microsoft's Import and Analyze Data website</a>.
 
 ### Add conditional formatting
 To learn more about `conditional formatting`, open Excel and navigate to the `Home` tab and the `Styles` section. 
