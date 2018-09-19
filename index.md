@@ -10,11 +10,9 @@ Part I of this workshop series will get you started with Excel by offering simpl
 - format data
 - insert basic functions
 
-Part II of this workshop series will show you how to:
+Visit "Introduction to Excel: Part II" to learn how to:
 - create charts and graphs
 - insert advanced functions
-
-We will even learn a few tips and tricks in both workshops that will make you an Excel power-user.
 
 # Workshop Prep and Downloads 
 
