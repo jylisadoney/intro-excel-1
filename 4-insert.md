@@ -1,12 +1,12 @@
 ---
-title: Insert
+title: Insert Basic Functions
 nav: true
 ---
 Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`IntroExcelSampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
 **Throughout this workshop `Click` refers to a `Left Click` with your mouse**
 
-# Insert Functions
+# Insert Basic Functions
 
 Functions can help you do math, calculate standard deviation, edit text, or find specific types of data.
 
