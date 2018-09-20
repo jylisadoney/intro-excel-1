@@ -81,9 +81,9 @@ When an Excel sheet is more than one page, it can be helpful to print the header
 * Navigate to the `Page Layout` tab and the `Page Setup` section
 * Click on `Print Titles`
 * Navigate to the `Sheet` tab in the new window
-* Below the `Print titles` section, click in the `Rows to repeat at top` box
+* Below the `Print titles` section, click into the `Rows to repeat at top box`
   * Option 1: Type the `header cell range` (example A1:E4)
-  * Option 2: Click the `Collapse Dialog button` and highlight the header cell range
+  * Option 2: Click the `collapse dialog box button` and highlight the header cell range
 * Click `OK`
 
 Now the `headers` will print on every page.
