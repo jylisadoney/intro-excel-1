@@ -10,7 +10,7 @@ Please download <a href="images/IntroExcelSampleWorkbook.xlsx" target="_blank">`
 
 Excel offers many other ways to organize your sheets and work with your data.
 
-We will discuss how to [split text into multiple columns](#split-text-into-multiple-columns), [wrap text](#wrap-text), [add the date and time](#add-the-date-and-time), and [print headers on every page](print-headers-on-every-page).
+We will discuss how to [split text into multiple columns](#split-text-into-multiple-columns), [wrap text](#wrap-text), [add the date and time](#add-the-date-and-time), and [print headers on every page](#print-headers-on-every-page).
 
 ## [Split text into multiple columns](#split-text-into-multiple-columns)
 
@@ -76,7 +76,7 @@ If your data is text-based, you can `wrap the text` so it appears on multiple li
 
 Now the `current date and time` will update when the workbook/sheet is opened.
 
-## [Print Headers on Every Page](print-headers-on-every-page)
+## [Print Headers on Every Page](#print-headers-on-every-page)
 When an Excel sheet is more than one page, it can be helpful to print the headers on every page.
 * Navigate to the `Page Layout` tab and the `Page Setup` section
 * Click on `Print Titles`
