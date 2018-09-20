@@ -76,7 +76,7 @@ If your data is text-based, you can `wrap the text` so it appears on multiple li
 
 Now the `current date and time` will update when the workbook/sheet is opened.
 
-##[Print Headers on Every Page](print-headers-on-every-page)
+## [Print Headers on Every Page](print-headers-on-every-page)
 When an Excel sheet is more than one page, it can be helpful to print the headers on every page.
 * Navigate to the `Page Layout` tab and the `Page Setup` section
 * Click on `Print Titles`
