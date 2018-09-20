@@ -79,4 +79,6 @@ Since `Column B` is now duplicated, we can delete it.
 ## More Help
 To learn more about `functions`, open Excel and navigate to the `Formulas` tab and the `Function Library` section.
 
-You can also visit the <a href="https://jylisadoney.github.io/intro-excel-2/" target="_blank">Introduction to Excel Part II: Advanced Functions, Charts, and Graphs</a> page or the <a href="https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb?ui=en-US&rs=en-US&ad=US" target="_blank">Microsoft's Excel Functions (by Category) website</a>.
+For more information on inserting advanced functions, visit the <a href="https://jylisadoney.github.io/intro-excel-2/1-advancedfunctions.html" target="_blank">Introduction to Excel Part II: Insert Advanced Functions</a> page.
+
+You can also visit the the <a href="https://support.office.com/en-us/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb?ui=en-US&rs=en-US&ad=US" target="_blank">Microsoft's Excel Functions (by Category) website</a>.
