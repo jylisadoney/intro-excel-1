@@ -65,13 +65,15 @@ If your data is text-based, you can `wrap the text` so it appears on multiple li
 ### Add today's date and current time (static)]
 * Click on the cell where you want the time to appear
 * Hit `Ctrl ;` on your keyboard (same for Mac users)
-* Hit the `Space bar` on your keyboard (same for Mac users)
+* The hit the `Space bar` on your keyboard (same for Mac users)
 * Hit `Ctrl Shift ;` on your keyboard (`Command ;` for Mac users)
 * Hit `Enter` on your keyboard
 
 ### Add a date or time that updates (dynamic)
 * Click on the cell where you today's date and current time to appear
-* Type: `=NOW()`
+* Type: 
+  * `=TODAY()` : current date that updates
+  * `=NOW()` : current date and time that updates
 * Hit `Enter` on your keyboard
 
 Now the `current date and time` will update when the workbook/sheet is opened.
