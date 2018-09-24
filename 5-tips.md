@@ -65,7 +65,7 @@ If your data is text-based, you can `wrap the text` so it appears on multiple li
 ### Add today's date and current time (static)]
 * Click on the cell where you want the time to appear
 * Hit `Ctrl ;` on your keyboard (same for Mac users)
-* The hit the `Space bar` on your keyboard (same for Mac users)
+* Then hit the `Space bar` on your keyboard (same for Mac users)
 * Hit `Ctrl Shift ;` on your keyboard (`Command ;` for Mac users)
 * Hit `Enter` on your keyboard
 
