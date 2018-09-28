@@ -27,7 +27,7 @@ Then, navigate to the `Data` tab and `Data Tools` section
 * Click on `Text to Columns`
 * Select the `Delimited` option in the pop-up window
 * Click `Next`
-* Click `Tab` to uncheck the box
+* Click the check-mark next to `Tab` to uncheck the box
 * Click to check the box for `Space`
   * We can now see a preview of what our data will look like
 * Click `Next`
