@@ -32,7 +32,7 @@ We can also format our `Sales Q1` and `Sales Q2` columns so that the data are di
 * Click on `Column C`
 * Drag to highlight `Column D` (both columns should now be highlighted)
 * Navigate to the `Home` tab and the `Number` section
-* Click on the Drop-Down box
+* Click on the `drop-down` box
 * Click on `Currency`
 
 The data in our `Sales Q1` and `Sales Q2` columns are now formatted as currency.
@@ -40,8 +40,9 @@ The data in our `Sales Q1` and `Sales Q2` columns are now formatted as currency.
 ## [Sort data](#sort-data)
 Now let’s say we want to organize our sheet based on `when an employee joined the company`.
 * Highlight all of the data
-  * Option 1: Click on `Cell A1` and drag to highlight all data **OR**
-  * Option 2: Hit `Ctrl A` on your keyboard (`Command A` for Mac users)
+  * Option 1: Click on `Cell A1`, hold down the `Shift` key on your keyboard, and click on `Cell E28`
+  * Option 2: Click on `Cell A1` and drag to highlight all data **OR**
+  * Option 3: Hit `Ctrl + A` on your keyboard (`Cmd + A` for Mac users)
 * Navigate to the `Data` tab and the `Sort & Filter` section
 * Slick on `Sort`
 * Check the `My data has headers` box
