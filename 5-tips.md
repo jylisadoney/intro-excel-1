@@ -54,19 +54,19 @@ If your data is text-based, you can `wrap the text` so it appears on multiple li
 ## [Add the date and time](#add-the-date-and-time)
 ### Add today's date (static)
 * Click on the cell where you want the date to appear
-* Hit `Ctrl ;` on your keyboard (same for Mac users)
+* Hit `Ctrl + ;` on your keyboard (same for Mac users)
 * Hit `Enter` on your keyboard
 
 ### Add the current time (static)
 * Click on the cell where you want the time to appear
-* Hit `Ctrl Shift ;` on your keyboard (`Command ;` for Mac users)
+* Hit `Ctrl + Shift + ;` on your keyboard (`Cmd + ;` for Mac users)
 * Hit `Enter` on your keyboard
 
 ### Add today's date and current time (static)]
 * Click on the cell where you want the time to appear
-* Hit `Ctrl ;` on your keyboard (same for Mac users)
+* Hit `Ctrl + ;` on your keyboard (same for Mac users)
 * Then hit the `Space bar` on your keyboard (same for Mac users)
-* Hit `Ctrl Shift ;` on your keyboard (`Command ;` for Mac users)
+* Hit `Ctrl + Shift ;` on your keyboard (`Cmd + ;` for Mac users)
 * Hit `Enter` on your keyboard
 
 ### Add a date or time that updates (dynamic)
