@@ -18,10 +18,10 @@ If you encounter columns or rows that are too big or too small, you can always r
 Let's navigate to `Sheet1`.
 
 ### Autofit
-* Click on `Column A` to highlight it
+* Click `Column A` to highlight it
 * Navigate to the `Home` tab and the `Cells` section
-* Click on `Format`
-* Click on `Autofit Column Width`
+* Click `Format`
+* Click `Autofit Column Width`
   * You can also type in a width or height value using `Row Height` or `Column Width` options
 
 ### Drag to resize
@@ -34,7 +34,7 @@ Let's navigate to `Sheet1`.
 When working with data, we can rename column headers so they are more descriptive.
 
 Let's say we want to rename `Column B` to `Employees`.
-* Click on `Cell B1`  
+* Click `Cell B1`  
 * Type the word `Employees`
 
 ## [Freeze panes](#freeze-panes)
@@ -45,21 +45,21 @@ What we can do is `freeze panes` to keep part of the sheet visible when we scrol
 ### Freeze the top rows
 * Navigate to the `View` tab
 * Click the `Freeze Panes` icon
-* Click on `Freeze Top Row`
+* Click `Freeze Top Row`
 
 Now our top row is frozen when we scroll `vertically`.
 
 ### Freeze a column and row at the same time
-* Click on `Cell C2`
+* Click `Cell C2`
 * Navigate to the `View` tab
 * Click the `Freeze Panes` icon
-* Click on `Freeze Panes`
+* Click `Freeze Panes`
 
 Now our top row and Columns A and B are frozen when we scroll `vertically` or `horizontally`.
 
 ### Unfreeze panes
 * Click the `Freeze Panes` icon
-* Click on `Unfreeze Panes`
+* Click `Unfreeze Panes`
 
 ## [Insert, delete, and rename sheets](#insert-delete-and-rename-sheets)
 Depending on your data, you may have/need multiple `sheets` in your `workbook`.
@@ -68,15 +68,15 @@ Depending on your data, you may have/need multiple `sheets` in your `workbook`.
  * Click the `plus (+) button` at the bottom of the workbook
  
 ### Delete a sheet
-* Right click on the sheet name
-* Click on `Delete`
+* Right click the sheet name
+* Click `Delete`
   * **Caution!** This will delete ALL data included in that sheet
 
 ### Rename a sheet
 Right now, our first sheet is named Sheet1. Let's rename it to something more descriptive.
-* Click on `Sheet1`
-* Right click on `Sheet1`
-* Click on `Rename`
+* Click `Sheet1`
+* Right click `Sheet1`
+* Click `Rename`
 * Type `Employee Sales`
   * Click somewhere in your workbook to save this rename
 

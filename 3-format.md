@@ -18,38 +18,38 @@ In Excel, dates are easier to organize and sort when they are represented numeri
 Let's fix our `Hire Date` column to make it more readable.
 
 * Navigate to the `Employee Sales sheet (or Sheet1)` in our workbook
-* Click on `Column E` to highlight it
+* Click `Column E` to highlight it
 * Navigate to the `Home` tab and the `Number` section
-* Click on the arrow in the bottom right of the `Number` section
-* Under Category, click on `Date`
-* Scroll down and click on `03/14/2012`
+* Click the arrow in the bottom right of the `Number` section
+* Under Category, click `Date`
+* Scroll down and click `03/14/2012`
 * Click `OK`
 
 The dates in the `Hire Date` columns are now represented by numbers.
 
 ## [Format currency](#format-currency)
 We can also format our `Sales Q1` and `Sales Q2` columns so that the data are displayed as Currency.
-* Click on `Column C`
+* Click `Column C`
 * Drag to highlight `Column D` (both columns should now be highlighted)
 * Navigate to the `Home` tab and the `Number` section
-* Click on the `drop-down` box
-* Click on `Currency`
+* Click the `drop-down` box
+* Click `Currency`
 
 The data in our `Sales Q1` and `Sales Q2` columns are now formatted as currency.
 
 ## [Sort data](#sort-data)
 Now let’s say we want to organize our sheet based on `when an employee joined the company`.
 * Highlight all of the data
-  * Option 1: Click on `Cell A1`, hold down the `Shift` key on your keyboard, and click on `Cell E28`
-  * Option 2: Click on `Cell A1` and drag to highlight all data **OR**
+  * Option 1: Click `Cell A1`, hold down the `Shift` key on your keyboard, and click `Cell E28`
+  * Option 2: Click `Cell A1` and drag to highlight all data **OR**
   * Option 3: Hit `Ctrl + A` on your keyboard (`Cmd + A` for Mac users)
 * Navigate to the `Data` tab and the `Sort & Filter` section
-* Slick on `Sort`
+* Click `Sort`
 * Check the `My data has headers` box
-* In the `Sort by` drop-down box, click on `Hire Date`
+* In the `Sort by` drop-down box, click `Hire Date`
   * Set the `Sort on` drop-down box to `Values`
   * Set the `Order` drop-down box to `Oldest to Newest`
-* Click on `OK`
+* Click `OK`
 
 Now the data in our sheet are sorted based on Hire Date. We could also sort `Hire Date` as `Newest to Oldest`.
 
@@ -66,16 +66,16 @@ Now the data in our sheet are sorted based on Hire Date. We could also sort `Hir
 
 Let’s say we want to highlight the `Sales Q1` amounts that are `equal or above the average`.
 * Navigate to the `Employee Sales sheet (or Sheet1)` in our workbook.
-* Click on `Column C` to highlight the `Sales Q1 data`
+* Click `Column C` to highlight the `Sales Q1 data`
 * Navigate to the `Home` tab and the `Styles` section
-* Click on `Conditional Formatting`
-* Click on `New Rule`
-* Click on `Format only values that are above or below average`
+* Click `Conditional Formatting`
+* Click `New Rule`
+* Click `Format only values that are above or below average`
 * In the drop-down box, select `equal or above`
 
 Now we have to set what we want the formatting to look like.
-* Click on `Format`
-* Click on `Fill`
+* Click `Format`
+* Click `Fill`
 * Click the color you want to use
 * Click `OK`, then click `OK` again
 
@@ -83,26 +83,26 @@ We can now see that Excel has highlighted the `Sales Q1` amounts that are `equal
 
 ### Edit conditional formatting
 * Navigate to the `Home` tab and the `Styles` section
-* Click on `Conditional Formatting`
-* Click on `Manage Rules`
+* Click `Conditional Formatting`
+* Click `Manage Rules`
   * In the `Show formatting rules for` drop-down, select `This Worksheet`
 * Click to highlight the rule you want to edit
-* Click on `Edit Rule` and enter your changes
+* Click `Edit Rule` and enter your changes
 
 ### Remove conditional formatting
 
 #### Specific cells
 * Click and drag to highlight the cells(s) where you want to remove conditional formatting
 * Navigate to the `Home` tab and the `Styles` section
-* Click on `Conditional Formatting`
-* Click on `Clear Rules` 
-* Click on `Clear Rules from Selected Cells`
+* Click `Conditional Formatting`
+* Click `Clear Rules` 
+* Click `Clear Rules from Selected Cells`
 
 #### Entire sheet
 * Navigate to the `Home` tab and the `Styles` section
-* Click on `Conditional Formatting`
-* Click on `Clear Rules` 
-* Click on `Clear Rules from Entire Sheet`
+* Click `Conditional Formatting`
+* Click `Clear Rules` 
+* Click `Clear Rules from Entire Sheet`
 
 ## More Help
 
