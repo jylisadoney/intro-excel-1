@@ -2,7 +2,7 @@
 title: Tips
 nav: true
 ---
-Please download <a href="files/IntroExcel-Part1-SampleWorkbook.xlsx" target="_blank">`IntroExcel-Part1-SampleWorkbook.xlsx`</a> to follow along with workshop activities.
+Please download <a href="media/IntroExcel-Part1-SampleWorkbook.xlsx" target="_blank">`IntroExcel-Part1-SampleWorkbook.xlsx`</a> to follow along with workshop activities.
 
 **Throughout this workshop `Click` refers to a `Left Click` with your mouse**
 
