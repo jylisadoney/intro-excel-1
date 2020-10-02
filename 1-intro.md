@@ -19,7 +19,7 @@ The data in Excel workbooks are organized into `columns` and `rows`.
 
 The intersection between a column and a row is a `cell`.
 
-{% include figure.html file="ExcelSample_Terminology.jpg" alt="Excel workbook with terminology labels" caption="Excel Spreadsheet Terminology" %}
+![Excel workbook with terminology labels](media/ExcelSample_Terminology.jpg "Excel Spreadsheet Terminology")
 
 `Tabs` appear at the top of the workbook and help you utilize many Excel features, such as creating charts and graphs or sorting your data.
 
